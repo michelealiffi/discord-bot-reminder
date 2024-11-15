@@ -1,0 +1,436 @@
+{
+    "info-nos": [
+      {
+        "hour": 7,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 8,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Rainbow Battle, find your place in any channels"
+      },
+      {
+        "hour": 9,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 10,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Rainbow Battle, find your place in any channels"
+      },
+      {
+        "hour": 11,
+        "minute": 20,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Asgobas IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 11,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 12,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Rainbow Battle, find your place in any channels"
+      },
+      {
+        "hour": 12,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "Prepare shortly the AoT begins, go to channels 3, 4 (better), 5."
+      },
+      {
+        "hour": 13,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 14,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Rainbow Battle, find your place in any channels"
+      },
+      {
+        "hour": 15,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 16,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Rainbow Battle, find your place in any channels"
+      },
+      {
+        "hour": 17,
+        "minute": 20,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Asgobas IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 17,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 18,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Rainbow Battle, find your place in any channels"
+      },
+      {
+        "hour": 19,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 20,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Rainbow Battle, find your place in any channels"
+      },
+      {
+        "hour": 21,
+        "minute": 20,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Asgobas IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 21,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 22,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Rainbow Battle, find your place in any channels"
+      },
+      {
+        "hour": 23,
+        "minute": 20,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Asgobas IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 23,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 0,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Rainbow Battle, find your place in any channels"
+      },
+      {
+        "hour": 1,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 2,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Rainbow Battle, find your place in any channels"
+      },
+      {
+        "hour": 3,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 4,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Rainbow Battle, find your place in any channels"
+      },
+      {
+        "hour": 5,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the IC, find your place in one of the following channels 1, 2 and 3"
+      },
+      {
+        "hour": 6,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "There are 10 minutes to the Rainbow Battle, find your place in any channels"
+      }
+    ],
+    "lod": [
+      {
+        "hour": 23,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "LoD open near in channel 7, prepare!"
+      },
+      {
+        "hour": 0,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "Horn is come, go fast in channel 7!"
+      },
+      {
+        "hour": 2,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "LoD open near in channel 1, prepare!"
+      },
+      {
+        "hour": 3,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "Horn is come, go fast in channel 1!"
+      },
+      {
+        "hour": 5,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "LoD open near in channel 1, prepare!"
+      },
+      {
+        "hour": 6,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "Horn is come, go fast in channel 1!"
+      },
+      {
+        "hour": 8,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "LoD open near in channel 2, prepare!"
+      },
+      {
+        "hour": 9,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "Horn is come, go fast in channel 2!"
+      },
+      {
+        "hour": 11,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "LoD open near in channel 3, prepare!"
+      },
+      {
+        "hour": 12,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "Horn is come, go fast in channel 3!"
+      },
+      {
+        "hour": 14,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "LoD open near in channel 2, 3 and 6, prepare!"
+      },
+      {
+        "hour": 15,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "Horn is come, go fast in channel 2, 3 or 6!"
+      },
+      {
+        "hour": 17,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "LoD open near in channel 4, 5 and 7, prepare!"
+      },
+      {
+        "hour": 18,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "Horn is come, go fast in channel 4, 5 or 7!"
+      },
+      {
+        "hour": 20,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "LoD open near in channel 4, 5 and 6, prepare!"
+      },
+      {
+        "hour": 21,
+        "minute": 50,
+        "weekendOnly": false,
+        "message": "Horn is come, go fast in channel 4, 5 or 6!"
+      }
+    ],
+    "lol": [
+        {
+            "hour": 23,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "LoL open near in any channel, prepare!"
+        },
+        {
+            "hour": 0,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "Asgobas is come, go fast in any channel!"
+        },
+        {
+            "hour": 1,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "LoL open near in any channel, prepare!"
+        },
+        {
+            "hour": 2,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "Asgobas is come, go fast in any channel!"
+        },
+        {
+            "hour": 3,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "LoL open near in any channel, prepare!"
+        },
+        {
+            "hour": 4,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "Asgobas is come, go fast in any channel!"
+        },
+        {
+            "hour": 5,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "LoL open near in any channel, prepare!"
+        },
+        {
+            "hour": 6,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "Asgobas is come, go fast in any channel!"
+        },
+        {
+            "hour": 7,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "LoL open near in any channel, prepare!"
+        },
+        {
+            "hour": 8,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "Asgobas is come, go fast in any channel!"
+        },
+        {
+            "hour": 9,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "LoL open near in any channel, prepare!"
+        },
+        {
+            "hour": 10,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "Asgobas is come, go fast in any channel!"
+        },
+        {
+            "hour": 11,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "LoL open near in any channel, prepare!"
+        },
+        {
+            "hour": 12,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "Asgobas is come, go fast in any channel!"
+        },
+        {
+            "hour": 13,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "LoL open near in any channel, prepare!"
+        },
+        {
+            "hour": 14,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "Asgobas is come, go fast in any channel!"
+        },
+        {
+            "hour": 15,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "LoL open near in any channel, prepare!"
+        },
+        {
+            "hour": 16,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "Asgobas is come, go fast in any channel!"
+        },
+        {
+            "hour": 17,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "LoL open near in any channel, prepare!"
+        },
+        {
+            "hour": 18,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "Asgobas is come, go fast in any channel!"
+        },
+        {
+            "hour": 19,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "LoL open near in any channel, prepare!"
+        },
+        {
+            "hour": 20,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "Asgobas is come, go fast in any channel!"
+        },
+        {
+            "hour": 21,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "LoL open near in any channel, prepare!"
+        },
+        {
+            "hour": 22,
+            "minute": 50,
+            "weekendOnly": false,
+            "message": "Asgobas is come, go fast in any channel!"
+        }
+    ],
+    "a4-fc": [
+        {
+            "hour": 16,
+            "minute": 50,
+            "weekendOnly": true,
+            "message": "Go fast in a4, Caligo is near!"
+        },
+        {
+            "hour": 19,
+            "minute": 50,
+            "weekendOnly": true,
+            "message": "Go fast in a4, Caligo is near!"
+        }
+    ]
+  }
